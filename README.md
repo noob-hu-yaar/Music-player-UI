@@ -1,6 +1,7 @@
 
 A <b>Music Player UI</b> made using Flutter and Dart language.
-<p>. </p>
+<p>.
+</p>
 
 It looks somewhat like this, upon opening on an Android platform.
 
